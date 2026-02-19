@@ -27,8 +27,6 @@ Email: khudoykulov2003@gmail.com
 - [Возможности](#-возможности)
 - [Установка](#-установка)
 - [Быстрый старт](#-быстрый-старт)
-- [Документация](#-документация)
-- [Примеры использования](#-примеры-использования)
 - [Структура проекта](#-структура-проекта)
 - [Требования](#-требования)
 - [Лицензия](#-лицензия)
@@ -59,7 +57,7 @@ from autostatanalysis.models.car import Car
 from autostatanalysis.core.calculator import CarPriceCalculator
 from autostatanalysis.utils.formatter import format_price
 
-# Создание автомобиля
+## Создание автомобиля
 car = Car(
     brand="Toyota",
     model="Camry",
@@ -106,3 +104,4 @@ autostatanalysis2026/
    
 ## ⭐ Поддержка проекта
 Если вам нравится этот проект, поставьте звездочку на GitHub! Это помогает другим разработчикам найти его.
+
