@@ -11,7 +11,7 @@ numpy >= 1.21.0
 👤 Автор
 Murodjon
 
-GitHub: @Murodjon
+GitHub: @khudoykulovm
 
 Email: khudoykulov2003@gmail.com
 # 🚗 AutoStatAnalysis 
@@ -47,4 +47,5 @@ Email: khudoykulov2003@gmail.com
 ### Через pip (после публикации)
 ```bash
 pip install autostatanalysis
+
 
