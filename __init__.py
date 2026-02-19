@@ -1,1 +1,1 @@
-"""AutoStatAnalysis package""" 
+"""Core module""" 
