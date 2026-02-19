@@ -28,7 +28,7 @@ setup(
     long_description_content_type="text/markdown",
     
     # URL проекта
-    url="https://github.com/Murodjon/autostatanalysis2026",
+    url="https://github.com/khudoykulovm/autostatanalysis2026",
     project_urls={
         "Bug Tracker": "https://github.com/khudoykulovm/autostatanalysis2026/issues",
         "Documentation": "https://github.com/khudoykulovm/autostatanalysis2026#readme",
@@ -106,6 +106,7 @@ setup(
         "pytest-cov>=2.12.0",
     ],
 ) 
+
 
 
 
