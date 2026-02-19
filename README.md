@@ -1,3 +1,19 @@
+🔧 Требования
+Python 3.8 или выше
+
+pandas >= 1.3.0
+
+numpy >= 1.21.0
+
+📝 Лицензия
+Этот проект распространяется под лицензией MIT. Подробности в файле LICENSE.
+
+👤 Автор
+Murodjon
+
+GitHub: @Murodjon
+
+Email: khudoykulov2003@gmail.com
 # 🚗 AutoStatAnalysis 
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
@@ -31,3 +47,4 @@
 ### Через pip (после публикации)
 ```bash
 pip install autostatanalysis
+
